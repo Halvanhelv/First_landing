@@ -1,0 +1,405 @@
+body
+{
+	padding: 0;
+	margin: 0;
+	width: 99vw;
+	height: 100vh;
+
+
+}
+header
+{
+
+	display: flex;
+	width: 100%;
+	height: 100%;
+background-image: url(first-bg.jpg);
+background-size: cover;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+}
+
+footer
+{
+
+	display: flex;
+margin-top: 15px;
+	width: 100%;
+	height: 10%;
+
+	align-items: center;
+	justify-content: space-between;
+
+
+}
+
+.menu
+{
+
+display: flex;
+justify-content: space-between;
+width: 40%;
+margin-right: 230px;
+
+}
+li
+{
+	display: flex;
+	list-style-type: none;
+	font-size: 14px;
+	text-transform:uppercase;
+	color: #fff;
+
+
+
+}
+.second
+{
+	display: flex;
+	height: 66%;
+	width: 100%;
+
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin-top: 100px;
+	align-content: center;
+
+}
+.logo
+{
+	display: flex;
+margin-left: 100px;
+
+}
+h1
+{
+	display: flex;
+height: 40px;
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 40px;
+font-weight: 400;
+text-transform: uppercase;
+	width: 600px;
+	justify-content: center;
+
+
+
+}
+h2
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+	/* Style for "It’s nice" */
+width: 100%;
+height: 56px;
+color: #ffffff;
+font-family: "Arial - Bold MT";
+font-size: 75px;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "It’s nice" */
+letter-spacing: -1.88px;
+}
+h3
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+
+color: #484543;
+font-family: "Arial - Bold MT";
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 600;
+text-transform: uppercase;
+
+
+
+}
+.button
+{
+	/* Style for "Button" */
+width: 240px;
+height: 65px;
+background-color: #fed136;
+}
+nav
+{
+	display: flex;
+	height: 80%;
+	width: 100%;
+	flex-wrap: wrap;
+
+}
+.Services
+{
+	display: flex;
+	width: 100%;
+	height: 40%;
+
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+
+}
+.Services1
+{
+
+display: flex;
+justify-content: center;
+align-items: center;
+	width: 100%;
+	height: 50%;
+
+
+}
+.Services2
+{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 40%;
+
+
+}
+.text
+{
+	/* Style for "Services" */
+width: 193px;
+height: 31px;
+color: #222222;
+font-family: "Arial - Bold MT";
+font-size: 40px;
+font-weight: 600;
+line-height: 75px;
+text-transform: uppercase;
+/* Text style for "S, ervices" */
+letter-spacing: -1px;
+font-family: sans-serif;
+}
+.text1
+{
+	text-align: center;
+	/* Style for "Proin iacu" */
+width: 302px;
+height: 16px;
+color: #777777;
+font-family: "Arial MT";
+font-size: 18px;
+font-weight: 400;
+}
+.logot
+{
+	width: 100%;
+
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	padding-right: 110px;
+
+}
+.logot_item
+{
+	text-align: center;
+	padding-left: 100px;
+}
+.logot_item h3
+{
+	font-size: 18px;
+}
+.logot_item p
+{
+	text-align: center;
+
+font-size: 14px;
+color: #777777;
+width: 250px;
+
+}
+.our
+{
+	display: flex;
+	width: 100%;
+	height: 100%;
+
+	justify-content: center;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+
+	background-color: #f7f7f7;
+
+
+}
+
+.our2
+{
+	/* Style for "Our portfo" */
+	width: 100%;
+	height:auto;
+	color: #222222;
+	font-family: "Arial - Bold MT";
+	font-family: sans-serif;
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 75px;
+	text-transform: uppercase;
+	/* Text style for "Our portfo" */
+	letter-spacing: -1px;
+	margin: 0;
+	padding-top: 80px;
+
+}
+.sosi
+{
+padding-top: 10px;
+	text-align: center;
+	/* Style for "Proin iacu" */
+width: 100%;
+height: 10px;
+color: #777777;
+font-family: "Arial MT";
+font-family: sans-serif;
+
+font-weight: 400;
+margin: 0;
+
+}
+.us
+{
+	width: 100%;
+}
+.list
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+
+}
+.img2
+{
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.picture
+{
+	display: flex;
+	width: 100%;
+height: 100%;
+
+flex-wrap: wrap;
+align-content: flex-start;
+
+}
+.about_us
+{
+display: flex;
+width: 100%;
+height: 30%;
+// background-color: black;
+flex-wrap: wrap;
+align-content: flex-start;
+justify-content: center;
+align-items: flex-start;
+margin: 0;
+
+
+}
+.about_us_1
+{
+
+	// background-color: red;
+	/* Style for "Proin iacu" */
+
+margin: 0;
+color: #777777;
+font-family: "Arial MT";
+font-size: 16px;
+font-weight: 400;
+	font-family: sans-serif;
+
+
+}
+
+.about_us_
+{
+	// background-color: blue;
+	/* Style for "About Us" */
+
+color: #222222;
+font-family: "Arial - Bold MT";
+font-size: 40px;
+
+line-height: 75px;
+text-transform: uppercase;
+/* Text style for "About Us" */
+
+font-family: sans-serif;
+
+
+}
+.last
+{
+		width: 100%;
+		height: 150%;
+
+		display: flex;
+flex-direction: column;
+align-items: center;
+
+justify-content: space-around;
+
+}
+	.last2
+	{
+		float: left;
+		text-align: center;
+		margin-left: 200px;
+
+	}
+.last3
+{
+	float: right;
+	text-align: right;
+	margin-right: 285px;
+
+
+}
+.last4
+{
+	float: left;
+	text-align: center;
+	margin-left: 209px;
+
+}
+.last5
+{
+	float: right;
+	text-align: center;
+	margin-right: 400px;
+
+}
+.copy
+{
+	/* Style for "© Copyrigh" */
+width: 229px;
+height: 14px;
+color: #555555;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+/* Text style for "© Copyrigh" */
+letter-spacing: -0.35px;
+margin: auto;
+
+}
